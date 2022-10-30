@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Card, CardHeader, CardContent, Typography, Divider } from '@material-ui/core';
 // import { Doughnut } from 'react-chartjs-2';
-// import { ExpenseTrackerContext } from '../../context/context';
+import { ExpenseTrackerContext } from '../../context/context';
 
 // import useStyles from './styles';
 // import Form from './Form/Form';
